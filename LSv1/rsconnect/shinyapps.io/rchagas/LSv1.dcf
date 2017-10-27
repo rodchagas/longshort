@@ -1,0 +1,12 @@
+name: LSv1
+title: LSv1
+username:
+account: rchagas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 229971
+bundleId: 1048957
+url: https://rchagas.shinyapps.io/LSv1/
+when: 1509146515.59407
+asMultiple: FALSE
+asStatic: FALSE
